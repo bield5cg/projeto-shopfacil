@@ -1,6 +1,6 @@
 # ShopFacil - Loja Virtual com CRUD em PHP
 
-Projeto desenvolvido para o trabalho final da disciplina de **Desenvolvimento Web (HTML, CSS, JavaScript e PHP)** do curso de Análise e Desenvolvimento de Sistemas (Estácio).
+Projeto desenvolvido para o trabalho final da disciplina de **Desenvolvimento Web (HTML, CSS, JavaScript e PHP)** do curso de Análise e Desenvolvimento de Sistemas.
 
 ## Sobre o projeto
 A **ShopFacil** é uma loja virtual de departamentos com vitrine responsiva, busca e filtro de produtos, carrinho simples, página de contato com validação e um painel administrativo com CRUD completo ligado ao MySQL.
